@@ -10,7 +10,7 @@ header{
     justify-content: space-between;
     border-radius: 70px;
     color: white;
-
+    box-shadow: 6px 6px 7px rgb(155, 140, 251);
 }
 
 .head{
